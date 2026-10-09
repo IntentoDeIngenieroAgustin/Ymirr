@@ -3,7 +3,6 @@
 
 <img src="assets/banner.png" alt="Ymirr Banner" width="100%">
 
-<img src="assets/logo.png" alt="Ymirr Mascot" width="160">
 
 # YMIRR
 
