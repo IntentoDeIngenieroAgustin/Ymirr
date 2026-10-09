@@ -1,4 +1,4 @@
-module github.com/crajlabs/ymirr
+module github.com/IntentoDeIngenieroAgustin/Ymirr
 
 go 1.23
 
