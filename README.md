@@ -50,7 +50,7 @@ The project focuses on three principles:
 Install Ymirr in your Go project:
 
 ```bash
-go get github.com/crajlabs/ymirr@latest
+go get github.com/IntentoDeIngenieroAgustin/Ymirr@latest
 ```
 
 ## Quick Start
@@ -73,7 +73,7 @@ import (
     "context"
     "log"
 
-    "github.com/crajlabs/ymirr/turso"
+    "github.com/IntentoDeIngenieroAgustin/ymirr/turso"
 )
 
 func main() {
@@ -150,7 +150,7 @@ ymirr/
 Clone the repository:
 
 ```bash
-git clone https://github.com/crajlabs/ymirr.git
+git clone https://github.com/IntentoDeIngenieroAgustin/ymirr.git
 cd ymirr
 ```
 
