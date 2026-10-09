@@ -4,7 +4,9 @@
 <img src="assets/banner.png" alt="Ymirr Banner" width="100%">
 
 
-<img src="assets/logoG.png" alt="Ymirr Mascot" width="160"> # YMIRR
+<img src="assets/logoG.png" alt="Ymirr Mascot" width="160"> 
+
+# YMIRR
 
 **A lightweight, modular Go toolkit for Turso and HTTP middleware.**
 
