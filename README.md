@@ -11,10 +11,6 @@
 
 Built with Go · Developed by **CRAJ Labs**
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/crajlabs/ymirr.svg)](https://pkg.go.dev/github.com/crajlabs/ymirr)
-[![GitHub License](https://img.shields.io/github/license/crajlabs/ymirr)](LICENSE)
-[![GitHub Release](https://img.shields.io/github/v/release/crajlabs/ymirr)](https://github.com/crajlabs/ymirr/releases)
-
 </div>
 
 ---
